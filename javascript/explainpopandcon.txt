@@ -1,0 +1,29 @@
+
+// how many inputs/parameters does pop and concat method/function take
+// are pop and concat function mutable or immutable
+// what is the output of pop and concat method
+// are pop and concat method higher order function. Why or why not
+ 
+
+Pop:
+1. Pop dont take any input.
+2. It is mutable because it removes last element from array.
+3. Output of the pop is whatever left after deleting the last element of the array.
+4. No, because it doesn't take input or output as a function. 
+ 
+ 
+ 
+Concat:-
+1. It takes two inputs
+2. It is immutable 
+3. Merged array is the output. 
+4. No, because it doesn't take input or output as a function.
+
+
+Higher-Order Function. Function are treated as a variable that can be assigned to any other variable or passed as an argument. Function receives another function as an argument or returns First-order a new function or both. The “first-class” concept only has to do with functions in programming languages
+
+
+
+
+
+
